@@ -1,6 +1,6 @@
 # eu2us_convertor
 
-A new Flutter project.
+A new Flutter project. An app for converting European units (kg, cm, m, km, ml, l, °C) to American (lb, in, ft, ml, oz, gal, °F). Used for practicing Flutter development.
 
 ## Getting Started
 
